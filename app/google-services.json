@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "493637421995",
+    "firebase_url": "https://inlocoweathermap-a5377.firebaseio.com",
+    "project_id": "inlocoweathermap-a5377",
+    "storage_bucket": "inlocoweathermap-a5377.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493637421995:android:16092e8598ec4f2ab2e0ee",
+        "android_client_info": {
+          "package_name": "com.iteyes.placesproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493637421995-cc7loovmfoqhqpmbuo520n5put26vtbt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iteyes.placesproject",
+            "certificate_hash": "a31739c9e329b409d3d4a7549d6e4545a4ff87cb"
+          }
+        },
+        {
+          "client_id": "493637421995-tsb43iutjqfit24ftgsgn0l145l2rrum.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6e_XjKsYYk-pjbKVu3TR9lkoONSgJcOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493637421995-tsb43iutjqfit24ftgsgn0l145l2rrum.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

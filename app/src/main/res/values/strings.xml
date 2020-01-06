@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Cities Near</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="google_maps_api">AIzaSyB5sIm4LW0i9ZsbhBDMcx-Kilf-tC5FjdY</string>
+    <string name="open_weather_map_api">adb8e3486fe2c43287474e8d1db1d455</string>
+</resources>
