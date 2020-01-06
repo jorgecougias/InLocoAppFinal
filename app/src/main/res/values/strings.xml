@@ -3,4 +3,7 @@
     <string name="title_activity_map">MapActivity</string>
     <string name="google_maps_api">AIzaSyB5sIm4LW0i9ZsbhBDMcx-Kilf-tC5FjdY</string>
     <string name="open_weather_map_api">adb8e3486fe2c43287474e8d1db1d455</string>
+    <string name="in_loco_app_id">26493ee7-a9a7-4d41-938a-9aad2513efa3</string>
+
+
 </resources>
